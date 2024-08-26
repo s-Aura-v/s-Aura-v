@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-### Leet Code Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/s-Aura-v?theme=nord&font=JetBrains%20Mono&ext=heatmap)
-
 <!--
 **s-Aura-v/s-Aura-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
