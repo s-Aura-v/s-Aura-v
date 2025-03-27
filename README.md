@@ -1,11 +1,3 @@
 ### Hi there 👋
-
-<h3> Tech Stack: </h3>
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="50" alt="Java" title="Java" /></td>
-    <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="50" alt="C Language" title="C Language" /></td>
-    <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50" alt="Python" title="Python" /></td>
-    <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" alt="JavaScript" title="JavaScript" /></td>
-  </tr>
-</table>
+    <div style="background: linear-gradient(#7CB9E8, #318CE7); height: 400px; display: flex; justify-content: center; align-items: flex-end;"> 
+      <div style="  background-image: radial-gradient(circle 150px at 25% 33%, yellow, orange, lightyellow); height: 150px; width: 150px; border-radius: 50%;"></div>
