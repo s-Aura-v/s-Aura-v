@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-   <div style="background: linear-gradient(#7CB9E8, #318CE7); height: 400px; display: flex; justify-content: center; align-items: flex-end;">
-      <div style="  background-image: radial-gradient(circle 150px at 25% 33%, yellow, orange, lightyellow); height: 150px; width: 150px; border-radius: 50%;"></div> </div>
+<img src="https://media1.giphy.com/media/hyhBnzkUfFrsgfHdLD/giphy.gif?cid=6c09b95291h2jxwurc0qswiv5kh3b1zm7amnyj7n1f795xa5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="paper-windmill-spinning, use your imagination"/>
